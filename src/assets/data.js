@@ -50,37 +50,37 @@ export const data = [
     {
       question : "Which protocol is used to transfer web pages on the internet?",
 
-        option 1: "FTP",
-        option 2: "HTTP",
-        option 3: "SMTP",
-        option 4: "IP",
+        option1: "FTP",
+        option2: "HTTP",
+        option3: "SMTP",
+        option4: "IP",
         ans: 2
     },
         {
       question : "What is the purpose of CSS in web development?",
 
-        option 1: "To structure the content",
-        option 2: "To define the appearance of web pages",
-        option 3: "To create interactive features",
-        option 4: "To store data",
+        option1: "To structure the content",
+        option2: "To define the appearance of web pages",
+        option3: "To create interactive features",
+        option4: "To store data",
         ans: 2
     },
             {
       question : "Which tag is used to create a hyperlink in HTML?",
 
-        option 1: "<link>",
-        option 2: "<a>",
-        option 3: "<href>",
-        option 4: "<ul>",
+        option1: "<link>",
+        option2: "<a>",
+        option3: "<href>",
+        option4: "<ul>",
         ans: 2
     },
                 {
       question : "What does SEO stand for?",
 
-        option 1: "Secure Encryption Optimization",
-        option 2: "Standard Evaluation Output",
-        option 3: "Search Engine Optimization",
-        option 4: "Systematic Engine Order",
+        option1: "Secure Encryption Optimization",
+        option2: "Standard Evaluation Output",
+        option3: "Search Engine Optimization",
+        option4: "Systematic Engine Order",
         ans: 3
     },
     
